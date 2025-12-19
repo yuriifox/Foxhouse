@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "Một ứng dụng để tạo hình ảnh tùy chỉnh từ ảnh của bạn bằng công nghệ AI tiên tiến, sử dụng mô hình Gemini Image.",
+  "requestFramePermissions": []
+}
